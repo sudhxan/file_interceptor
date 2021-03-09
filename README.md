@@ -1,0 +1,1 @@
+This program modifies data in HTTP layer that flows through the computer. Any responses and requests sent through HTTP can be modified. Javascript/HTML codes can be injected in a similar way.Downloads can be replaced to backdoors , credential harvester or any malware
